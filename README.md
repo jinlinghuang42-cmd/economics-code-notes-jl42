@@ -20,9 +20,9 @@ economics-code-notes/
 ├── README.md
 │
 ├── stata/
-│   ├── 00-do-file-template/
-│   │   └── do-file-template.md
-│   │   └── template.do
+│   ├── 00-project-setup/
+│   │   └── project-setup.md
+│   │   └── do-file-template.do
 │   │
 │   ├── 01-common-commands/
 │   │   └── common-commands.md
