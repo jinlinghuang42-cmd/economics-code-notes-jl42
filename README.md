@@ -6,10 +6,10 @@ Reusable Stata and Python notes and templates for empirical economics research.
 
 The repository is organized into two parts. 
 
-The Stata part organizes the empirical workflow:
-a reusable do-file template for project setup, a note compiling commonly used commands for data
-management and estimation, a regression workflow, and advanced empirical methods grouped into
-separate folders. 
+The Stata part organizes the empirical workflow: notes and do-file templates for project setup,
+a reference of commonly used commands for data management and estimation, a regression workflow,
+and advanced empirical methods grouped into separate folders.
+
 
 The Python part is for learning some frontier methods, including LLM
 agents and machine-learning approaches.
@@ -22,6 +22,7 @@ economics-code-notes/
 ├── stata/
 │   ├── 00-project-setup/
 │   │   └── project-setup.md
+│   │   └── ...
 │   │   └── do-file-template.do
 │   │
 │   ├── 01-common-commands/
