@@ -3,8 +3,7 @@
 This note records how AI agents can support empirical economics research, and how to actually
 use and customize them.
 
-**For me, agents are simply a faster, more accurate reference tool, playing the same role as
-search engines, books, or journals. This note is not meant to replace my own thinking, but to
+**For me, agents are simply a faster, more accurate reference tool. This note is not meant to replace my own thinking, but to
 keep track of where they genuinely help.**
 
 ---
